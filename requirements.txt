@@ -1,0 +1,10 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+passlib>=1.7.4
+bcrypt>=3.2.0
+python-multipart>=0.0.5
+loguru>=0.5.3
+litellm>=1.0.0
+python-dotenv>=0.19.0
+aiosqlite>=0.19.0
+duckduckgo-search
