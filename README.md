@@ -39,7 +39,7 @@ cd Zero-Agent
 
 2. Start the services using Docker Compose:
 ```bash
-docker compose up
+docker compose up -d
 ```
 
 ### Manual Setup
